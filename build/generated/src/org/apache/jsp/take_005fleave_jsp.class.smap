@@ -1,0 +1,28 @@
+SMAP
+take_005fleave_jsp.java
+JSP
+*S JSP
+*F
++ 0 header_tech_hod.jsp
+header_tech_hod.jsp
++ 1 take_leave.jsp
+take_leave.jsp
++ 2 flash.jsp
+flash.jsp
++ 3 footer.jsp
+footer.jsp
+*L
+1,25:51
+1#1:75
+3#2,9:78
+11,2:87
+13:89,3
+14:92
+15:93,5
+16,5:98
+2#1,58:103
+60,9:162
+68,34:171
+1#3,25:204
+101#1:228
+*E
